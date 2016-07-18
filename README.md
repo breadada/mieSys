@@ -21,7 +21,7 @@
 
 ##3. 系统架构
 
-<center>![系统架构](http://oahjqk3ds.bkt.clouddn.com/%E4%B8%9A%E5%8A%A1%E9%80%BB%E8%BE%91.jpg)</center>
+<center>![系统架构](http://oahjqk3ds.bkt.clouddn.com/Architecture2.jpg)</center>
 
 ##4.功能模块
 
