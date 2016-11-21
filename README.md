@@ -40,6 +40,8 @@
 
 * 启动Flask
 python server.p runserver --host 0.0.0.0
+
+
 uwsgi config.ini
 
 * 启动离线计算
