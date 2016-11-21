@@ -39,10 +39,10 @@
 ##5.运行方法
 
 * 启动Flask
-> python server.p runserver --host 0.0.0.0
-> uwsgi config.ini
+python server.p runserver --host 0.0.0.0
+uwsgi config.ini
 
 * 启动离线计算
-> python run.py
+python run.py
 
 
