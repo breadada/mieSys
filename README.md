@@ -38,13 +38,15 @@
 
 ##5.运行方法
 
-* 启动Flask
+* a)启动Flask
 
 python server.p runserver --host 0.0.0.0
 
+* b)启动WSGI
+
 uwsgi config.ini
 
-* 启动离线计算
+* c)启动离线计算
 
 python run.py
 
