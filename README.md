@@ -40,7 +40,7 @@
 
 * a)启动Flask
 
-python server.p runserver --host 0.0.0.0
+python server.py runserver --host 0.0.0.0
 
 * b)启动WSGI
 
